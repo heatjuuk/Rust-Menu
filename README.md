@@ -12,4 +12,5 @@
 
 Yes! 𝐖𝐞𝐂𝐡𝐞𝐚𝐭 are developed and tested by our community of millions around the world.
 
-![2](https://github.com/heatjuuk/Valorant-WeCMenu/assets/154532156/4bf5de6a-bd0b-4ee9-8044-9696b538e3a9)
+![2](https://github.com/heatjuuk/Rust-Menu/assets/154532156/ac8da6f9-2446-40b7-8e91-2af480bc30e0)
+![3](https://github.com/heatjuuk/Rust-Menu/assets/154532156/657370a1-e4f4-4c09-b77a-6cd5ca1e0485)
