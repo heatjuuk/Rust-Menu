@@ -10,5 +10,3 @@
 ## Is 𝐖𝐞𝐂𝐡𝐞𝐚𝐭 safe❓
 
 Yes! 𝐖𝐞𝐂𝐡𝐞𝐚𝐭 are developed and tested by our community of millions around the world.
-
-![2](https://github.com/heatjuuk/CS2-WeCMenu/assets/154532156/07fc0d17-c3fd-434c-bba2-f347629ce80e)
